@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.fadu.io)",
+      "Bash(wc:*)",
+      "Bash(npx:*)",
+      "Bash(npm install:*)",
+      "Bash(ls /c/workspace/fadu_dashboard/*.ts /c/workspace/fadu_dashboard/*.json /c/workspace/fadu_dashboard/*.mjs)",
+      "Bash(find /c/workspace/fadu_dashboard -name *.pdf -o -name *.xlsx -o -name *.xls -o -name *.csv)",
+      "Bash(python3 -c \"import pdfplumber; print\\(''pdfplumber ok''\\)\")",
+      "Bash(python3 -c \"import pypdf; print\\(''pypdf ok''\\)\")",
+      "Bash(python3 -c \"import PyPDF2; print\\(''PyPDF2 ok''\\)\")",
+      "Bash(head:*)",
+      "Bash(python3.exe --version)",
+      "Bash(py --version)",
+      "Bash(where python:*)",
+      "Bash(pdftotext -enc UTF-8 '/c/workspace/fadu_dashboard/data_fadu financials/[파두]사업보고서\\(2026.03.18\\) \\(1\\).pdf' -)",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import pdfplumber; print\\(''''ok''''\\)\")",
+      "Bash(python:*)"
+    ]
+  }
+}

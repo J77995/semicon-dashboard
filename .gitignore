@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.local
+.env*.local
+out/
+dist/
+*.log
+scripts/log-*.txt
+scripts/out-*.json
+scripts/out-sector-*.json
+.DS_Store

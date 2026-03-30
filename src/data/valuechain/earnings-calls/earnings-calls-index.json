@@ -1,0 +1,898 @@
+[
+  {
+    "ticker": "000660.KS",
+    "company": "SK하이닉스",
+    "fiscalLabel": "24Q3",
+    "callDate": "2024-10-31",
+    "periodEndMonth": "2024-09",
+    "transcriptLen": 15743
+  },
+  {
+    "ticker": "000660.KS",
+    "company": "SK하이닉스",
+    "fiscalLabel": "24Q4",
+    "callDate": "2025-01-31",
+    "periodEndMonth": "2024-12",
+    "transcriptLen": 14677
+  },
+  {
+    "ticker": "000660.KS",
+    "company": "SK하이닉스",
+    "fiscalLabel": "25Q1",
+    "callDate": "2025-04-30",
+    "periodEndMonth": "2025-03",
+    "transcriptLen": 13099
+  },
+  {
+    "ticker": "000660.KS",
+    "company": "SK하이닉스",
+    "fiscalLabel": "25Q2",
+    "callDate": "2025-07-31",
+    "periodEndMonth": "2025-06",
+    "transcriptLen": 11685
+  },
+  {
+    "ticker": "000660.KS",
+    "company": "SK하이닉스",
+    "fiscalLabel": "25Q3",
+    "callDate": "2025-10-30",
+    "periodEndMonth": "2025-09",
+    "transcriptLen": 12614
+  },
+  {
+    "ticker": "000660.KS",
+    "company": "SK하이닉스",
+    "fiscalLabel": "25Q4",
+    "callDate": "2026-01-29",
+    "periodEndMonth": "2025-12",
+    "transcriptLen": 10923
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2024-04-30",
+    "transcriptLen": 50515,
+    "fiscalLabel": "24Q1",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2024-08-01",
+    "transcriptLen": 46741,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2024-10-31",
+    "transcriptLen": 46172,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2025-02-06",
+    "transcriptLen": 47782,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2025-05-01",
+    "transcriptLen": 48530,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2025-07-31",
+    "transcriptLen": 50853,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2025-10-30",
+    "transcriptLen": 45932,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-09"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "callDate": "2026-02-05",
+    "transcriptLen": 53692,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-12"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2024-03-07",
+    "transcriptLen": 40288,
+    "fiscalLabel": "24Q1",
+    "periodEndMonth": "2024-02"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2024-06-12",
+    "transcriptLen": 40841,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2024-05"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2024-09-05",
+    "transcriptLen": 40651,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-08"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2024-12-12",
+    "transcriptLen": 37761,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-11"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2025-03-06",
+    "transcriptLen": 39494,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2025-02"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2025-06-05",
+    "transcriptLen": 35542,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2025-05"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2025-09-04",
+    "transcriptLen": 41767,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-08"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2025-12-11",
+    "transcriptLen": 38927,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-11"
+  },
+  {
+    "ticker": "AVGO",
+    "company": "Broadcom",
+    "callDate": "2026-03-04",
+    "transcriptLen": 40659,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2026-02"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2024-04-25",
+    "transcriptLen": 50265,
+    "fiscalLabel": "24Q1",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2024-07-23",
+    "transcriptLen": 50927,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2024-10-29",
+    "transcriptLen": 56645,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2025-02-04",
+    "transcriptLen": 53083,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2025-04-24",
+    "transcriptLen": 49898,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2025-07-23",
+    "transcriptLen": 50614,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2025-10-29",
+    "transcriptLen": 47995,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-09"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Google/Alphabet",
+    "callDate": "2026-02-04",
+    "transcriptLen": 53400,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-12"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2024-03-07",
+    "transcriptLen": 46904,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-02"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2024-05-30",
+    "transcriptLen": 50846,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-05"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2024-08-29",
+    "transcriptLen": 46287,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2024-08"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2024-12-03",
+    "transcriptLen": 47998,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2024-11"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2025-03-05",
+    "transcriptLen": 53820,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-02"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2025-05-29",
+    "transcriptLen": 47492,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-05"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2025-08-28",
+    "transcriptLen": 50921,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2025-08"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2025-12-02",
+    "transcriptLen": 55873,
+    "fiscalLabel": "26Q3",
+    "periodEndMonth": "2025-11"
+  },
+  {
+    "ticker": "MRVL",
+    "company": "Marvell",
+    "callDate": "2026-03-05",
+    "transcriptLen": 60554,
+    "fiscalLabel": "26Q4",
+    "periodEndMonth": "2026-01"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2024-01-30",
+    "transcriptLen": 55959,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2023-12"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2024-04-25",
+    "transcriptLen": 55260,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2024-07-30",
+    "transcriptLen": 53305,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2024-10-30",
+    "transcriptLen": 55876,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2025-01-29",
+    "transcriptLen": 52937,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2025-04-30",
+    "transcriptLen": 48866,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2025-07-30",
+    "transcriptLen": 48326,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2025-10-29",
+    "transcriptLen": 52207,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-09"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft",
+    "callDate": "2026-01-28",
+    "transcriptLen": 52111,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2025-12"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2024-03-20",
+    "transcriptLen": 44637,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2024-02"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2024-06-26",
+    "transcriptLen": 47124,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-05"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2024-09-25",
+    "transcriptLen": 45727,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-08"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2024-12-18",
+    "transcriptLen": 32154,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-11"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2025-03-20",
+    "transcriptLen": 45825,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2025-02"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2025-06-25",
+    "transcriptLen": 43850,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-05"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2025-09-23",
+    "transcriptLen": 44147,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-08"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2025-12-17",
+    "transcriptLen": 49062,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-11"
+  },
+  {
+    "ticker": "MU",
+    "company": "Micron",
+    "callDate": "2026-03-18",
+    "transcriptLen": 45512,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2026-02"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2024-02-21",
+    "transcriptLen": 48484,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-01"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2024-05-22",
+    "transcriptLen": 49633,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-04"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2024-08-28",
+    "transcriptLen": 52779,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2024-07"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2024-11-20",
+    "transcriptLen": 48769,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2024-10"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2025-02-26",
+    "transcriptLen": 46862,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-01"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2025-05-28",
+    "transcriptLen": 46587,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-04"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2025-08-27",
+    "transcriptLen": 45146,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2025-07"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2025-11-19",
+    "transcriptLen": 52286,
+    "fiscalLabel": "26Q3",
+    "periodEndMonth": "2025-10"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "callDate": "2026-02-25",
+    "transcriptLen": 51999,
+    "fiscalLabel": "26Q4",
+    "periodEndMonth": "2026-01"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2024-03-11",
+    "transcriptLen": 36331,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-02"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2024-06-11",
+    "transcriptLen": 34912,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-05"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2024-09-09",
+    "transcriptLen": 42203,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-08"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2024-12-09",
+    "transcriptLen": 28219,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2024-11"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2025-03-10",
+    "transcriptLen": 34466,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-02"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2025-06-11",
+    "transcriptLen": 35181,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-05"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2025-09-09",
+    "transcriptLen": 34397,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-08"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2025-12-10",
+    "transcriptLen": 41396,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2025-11"
+  },
+  {
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "callDate": "2026-03-10",
+    "transcriptLen": 44475,
+    "fiscalLabel": "26Q3",
+    "periodEndMonth": "2026-02"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2024-05-03",
+    "transcriptLen": 37823,
+    "fiscalLabel": "24Q1",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2024-08-02",
+    "transcriptLen": 37213,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2024-10-31",
+    "transcriptLen": 40196,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2025-02-06",
+    "transcriptLen": 45163,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2025-04-30",
+    "transcriptLen": 45072,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2025-07-31",
+    "transcriptLen": 39555,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2025-10-31",
+    "transcriptLen": 41512,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-09"
+  },
+  {
+    "ticker": "SIMO",
+    "company": "Silicon Motion",
+    "callDate": "2026-02-04",
+    "transcriptLen": 43183,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-12"
+  },
+  {
+    "ticker": "SNDK",
+    "company": "SanDisk",
+    "callDate": "2025-11-06",
+    "transcriptLen": 48193,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-10"
+  },
+  {
+    "ticker": "SNDK",
+    "company": "SanDisk",
+    "callDate": "2026-01-29",
+    "transcriptLen": 55965,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2026-01"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2024-04-30",
+    "transcriptLen": 43812,
+    "fiscalLabel": "24Q1",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2024-07-30",
+    "transcriptLen": 46369,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2024-10-31",
+    "transcriptLen": 55034,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2025-01-31",
+    "transcriptLen": 53494,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2025-04-30",
+    "transcriptLen": 47321,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2025-07-31",
+    "transcriptLen": 55108,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2025-10-30",
+    "transcriptLen": 51508,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-09"
+  },
+  {
+    "ticker": "SSNLF",
+    "company": "Samsung Electronics",
+    "callDate": "2026-01-29",
+    "transcriptLen": 55022,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-12"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2024-01-24",
+    "transcriptLen": 48793,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2023-12"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2024-04-23",
+    "transcriptLen": 46180,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2024-07-23",
+    "transcriptLen": 51685,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2024-10-22",
+    "transcriptLen": 51343,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2025-01-21",
+    "transcriptLen": 47758,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2025-04-29",
+    "transcriptLen": 42720,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2025-07-29",
+    "transcriptLen": 51437,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2025-10-29",
+    "transcriptLen": 50030,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-10"
+  },
+  {
+    "ticker": "STX",
+    "company": "Seagate",
+    "callDate": "2026-01-27",
+    "transcriptLen": 46855,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2026-01"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2024-01-25",
+    "transcriptLen": 44774,
+    "fiscalLabel": "24Q2",
+    "periodEndMonth": "2023-12"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2024-04-25",
+    "transcriptLen": 55006,
+    "fiscalLabel": "24Q3",
+    "periodEndMonth": "2024-03"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2024-07-31",
+    "transcriptLen": 44851,
+    "fiscalLabel": "24Q4",
+    "periodEndMonth": "2024-06"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2024-10-24",
+    "transcriptLen": 52042,
+    "fiscalLabel": "25Q1",
+    "periodEndMonth": "2024-09"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2025-01-29",
+    "transcriptLen": 44760,
+    "fiscalLabel": "25Q2",
+    "periodEndMonth": "2024-12"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2025-04-30",
+    "transcriptLen": 52811,
+    "fiscalLabel": "25Q3",
+    "periodEndMonth": "2025-03"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2025-07-30",
+    "transcriptLen": 39053,
+    "fiscalLabel": "25Q4",
+    "periodEndMonth": "2025-06"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2025-10-30",
+    "transcriptLen": 42668,
+    "fiscalLabel": "26Q1",
+    "periodEndMonth": "2025-10"
+  },
+  {
+    "ticker": "WDC",
+    "company": "Western Digital",
+    "callDate": "2026-01-29",
+    "transcriptLen": 33293,
+    "fiscalLabel": "26Q2",
+    "periodEndMonth": "2026-01"
+  }
+]
